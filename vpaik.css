@@ -30,3 +30,35 @@
     background-color: #1E3DAD;
     color: #fff;
   }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #C4C4C4;
+    color: #000;
+    display: inline-flex;
+    justify-content: space-evenly;
+    
+
+    
+ }
+
+  .tleft {
+    font-size: 36px ;
+    
+  }
+
+  .tcenter {
+    font-size: 36px ;
+}
+
+  .tright p {
+    font-size: 36px ;
+    text-align: right;
+}
+
+  
+
+
